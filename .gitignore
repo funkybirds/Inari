@@ -1,0 +1,7 @@
+# Project Inari
+Outputs/
+Resources/
+__pycache__/
+*.pyc
+.env
+.venv/
